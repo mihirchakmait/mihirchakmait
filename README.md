@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on some projects.
+- 🌱 I’m currently learning ML and JavaScript.
+- 👯 I’m looking to collaborate on Internships.
+
 <!--
 **mihirchakmait/mihirchakmait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

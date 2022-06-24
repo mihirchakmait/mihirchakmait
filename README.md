@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on some projects.
-- 🌱 I’m currently learning Rust.
+- 🌱 I’m currently learning Rust programming.
 - 👯 I’m looking to collaborate on Internships.
 
 <!--

@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on some projects.
 - 🌱 I’m currently learning Rust programming.
-- 👯 I’m looking to collaborate on Internships.
+- 👯 I’m looking to collaborate on open-sourse projects.
 
 <!--
 **mihirchakmait/mihirchakmait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
